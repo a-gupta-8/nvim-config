@@ -1,5 +1,7 @@
 # nvim-config
 
+1231
+
 ## Personalized Neovim Config - (iTerm, tmux, packer, lua)
 
 ### tmux commands
