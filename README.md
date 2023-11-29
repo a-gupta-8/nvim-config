@@ -25,3 +25,7 @@ prefix ---> < C-a > <br/>
 < prefix > + , ---> Rename current window <br/>
 < prefix > + [ ---> Enters Copy mode | allows for vim movements <br/>
 <Shift + j,k> ---> Scoll down, up in copy mode <br/>
+
+### nvim keymaps
+
+< leader > + e ---> Toggle NvimTree
